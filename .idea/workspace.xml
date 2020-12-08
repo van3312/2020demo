@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5def99a-fd80-42a3-a2de-88cbade458bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lLz6qoZl0scBOGBsGDbLA5yD5F" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5def99a-fd80-42a3-a2de-88cbade458bf" name="Default Changelist" comment="" />
+      <created>1607390986562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607390986562</updated>
+      <workItem from="1607390991042" duration="2984000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1607396316358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607396316359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="103" y="23" key="CommitChangelistDialog2" timestamp="1607396316023">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="103" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1607396316023" />
+    <state x="636" y="209" key="git4idea.merge.GitMergeDialog" timestamp="1607396851430">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="636" y="209" key="git4idea.merge.GitMergeDialog/0.23.1280.777@0.23.1280.777" timestamp="1607396851430" />
+    <state x="647" y="319" key="git4idea.ui.GitStashDialog" timestamp="1607396633879">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="647" y="319" key="git4idea.ui.GitStashDialog/0.23.1280.777@0.23.1280.777" timestamp="1607396633879" />
+    <state x="68" y="57" key="new project wizard" timestamp="1607392017865">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="68" y="57" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1607392017865" />
+  </component>
+</project>
